@@ -1,24 +1,46 @@
-# 💫 About Me:
-¡Hola! Soy Juan, un apasionado programador joven de 21 años proveniente de Argentina, con un enfoque especial en el apasionante mundo del Desarrollo de Videojuegos. Desde temprana edad, he estado inmerso en el fascinante universo de la programación, y ahora estoy dedicando mis esfuerzos a convertir mi pasión en una carrera prometedora.<br><br>Mi objetivo es destacarme entre los demás desarrolladores, no solo por mi habilidad técnica, sino también por mi creatividad y capacidad para resolver problemas de manera innovadora. Estoy constantemente buscando nuevas oportunidades para aprender y crecer, ya sea explorando las últimas tecnologías en el desarrollo de videojuegos o mejorando mis habilidades en programación.<br><br>Lo que me impulsa es el desafío de crear experiencias interactivas únicas que cautiven a los jugadores y los sumerjan en mundos imaginarios. Mi determinación y dedicación me han llevado a enfrentar proyectos ambiciosos y a superar obstáculos con tenacidad y perseverancia.<br><br>Estoy emocionado por la posibilidad de colaborar con equipos talentosos y apasionados que compartan mi visión y estén comprometidos con la excelencia en el desarrollo de videojuegos. Siempre estoy abierto a nuevas oportunidades y desafíos, y estoy listo para llevar mis habilidades al siguiente nivel.<br><br>¡No dudes en contactarme si estás interesado en colaborar en proyectos emocionantes y desafiantes! Juntos podemos crear experiencias de juego memorables que dejarán una marca en la industria del entretenimiento.<br><br>¡Gracias por visitar mi perfil!
+<h2 align="left">Hola 👋! Mi nombre es Juan y soy un desarrollador de videojuegos directo de Argentina.</h2>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juangbustos) 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juanox03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juanox03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Juanox03&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Juanox03&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanox03&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Juanox03&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
+<img align="right" height="150" src="https://i.ibb.co/g9XL5s4/b0c23bdb-0b11-45e6-989b-d5cff9541714.jpg"  />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Juanox03&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=Juanox03&icon=0&color=3)](https://visitcount.itsvg.in)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="bustosjuann@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/juangbustos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Juanox03/Juanox03/output/snake.svg" alt="Snake animation" />
+
+###
